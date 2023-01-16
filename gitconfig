@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = adhamalkoukou@gmail.com
+	name = Adham Al Koukou
